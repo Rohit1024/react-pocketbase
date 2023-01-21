@@ -1,7 +1,7 @@
 # react-pocketbase
 React Pocketbase Auth
 
-##Pocketbase
+## Pocketbase
 Download the Pockebase app from [pocketbase.io](https://pocketbase.io/docs/) and follow the instructions
 
 
